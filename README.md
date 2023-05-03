@@ -28,3 +28,24 @@ L'objectif du projet est de créer un jeu de puissance 4 connecté ou 2 joueurs 
 - Mise en place du serveur *
 - Jeu en ligne *
 - Mise en ligne (déploiement)
+
+
+## initier le projet
+
+yarn create vite tuto-puissance4 : choisir react et typescript
+yarn add xstate
+
+## ouvrir le projet
+
+cd puissance4-etape3
+npm run dev
+
+## git
+
+
+git add .
+git commit -m " freepositionY37m ok"
+git remote add origin https://github.com/dgallula/puissance4-etape3
+git branch -M master
+git push -u origin master
+
